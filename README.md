@@ -6,7 +6,6 @@
 <p align="left">- Discord
 <a href="https://discord.gg/Capt_#2856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Capt_#2856" height="30" width="40" /></a>
 </p>
-- <a href="mailto:capt_contact@protonmail.com">Protonmail</a> 📫 <br><br>
 - <a href="https://www.root-me.org/Capt_">Root Me</a> 👨‍💻 
 
 
